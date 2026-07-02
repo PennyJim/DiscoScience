@@ -4,6 +4,7 @@ Date: 01. 07. 2026
   Changes:
     - Polish translation (thanks Hacai666!)
     - Require 2.1 (thanks paulvandenburg!)
+    - Support for custom lab animation graphics
   Bugfixes:
     - Actually use the high resolution graphics thanks (thanks PennyJim!)
 ---------------------------------------------------------------------------------------------------
